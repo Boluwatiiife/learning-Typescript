@@ -58,3 +58,9 @@ let randomGuy:random={
 console.log(randomGuy.bodyCount);
 console.log(randomGuy.person);
 
+let xx1:number|string;
+let xx2:guys|random;
+
+xx2=Muiz;
+console.log(xx2.fullNamee);
+
