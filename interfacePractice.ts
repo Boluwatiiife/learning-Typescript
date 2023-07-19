@@ -45,3 +45,16 @@ console.log(returnPhone('Marcelo'));
 console.log(returnPhone('LaWhizzi'));
 console.log(returnPhone('dara'));
 
+interface random{
+    bodyCount:number,
+    eyeColor:string,
+    person:guys
+}
+let randomGuy:random={
+    bodyCount:2,
+    eyeColor:'brown',
+    person:Boluwatife,
+}
+console.log(randomGuy.bodyCount);
+console.log(randomGuy.person);
+
