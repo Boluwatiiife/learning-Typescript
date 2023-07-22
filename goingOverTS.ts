@@ -87,9 +87,9 @@ function randomExercise(param:stuff):any{
     }
 }
 console.log(randomExercise('Hashcode'));
-console.log(randomExercise(70));
+console.log(randomExercise(80));
 console.log(randomExercise(studentt('Opolo Hub')));
 console.log(randomExercise(studentt(40)));
 console.log(randomExercise(false));
-console.log(randomExercise(true));
+console.log(randomExercise(true))
 
